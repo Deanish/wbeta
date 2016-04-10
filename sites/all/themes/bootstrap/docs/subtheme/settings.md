@@ -86,7 +86,7 @@ base theme:
 | bootstrap_region_well-highlighted                | `''`                      |
 | bootstrap_region_well-help                       | `''`                      |
 | bootstrap_region_well-content                    | `''`                      |
-| bootstrap_region_well-sidebar_first              | `''`                  |
+| bootstrap_region_well-sidebar_first              | `'well'`                  |
 | bootstrap_region_well-sidebar_second             | `''`                      |
 | bootstrap_region_well-footer                     | `''`                      |
 {.table.table-striped}
