@@ -51,8 +51,9 @@ fieldset.filter-wrapper {
        padding-right: 10px;
 }
 
-.padding-right {
-       padding-left: 10px;
+hr {
+       margin-top: 0px;
+       margin-bottom: 0px;
 }
 
 .navbar-inverse {
@@ -78,4 +79,8 @@ fieldset.filter-wrapper {
 .navbar-inverse .navbar-nav > .open > a:focus {
        color: #FFF;
        background-color: #D32232;
+}
+
+.padding-right {
+       padding-left: 10px;
 }
