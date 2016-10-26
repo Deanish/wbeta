@@ -84,3 +84,7 @@ hr {
 .padding-right {
        padding-left: 10px;
 }
+
+.tabledrag-toggle-weight-wrapper {
+       display: none;
+}
