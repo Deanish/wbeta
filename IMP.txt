@@ -1,2 +1,0 @@
-Base URL:
-	global $base_url;
