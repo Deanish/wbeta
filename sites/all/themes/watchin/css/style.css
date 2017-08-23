@@ -6,6 +6,10 @@ body {
     background-color: #f5f5f1;
 }
 
+body.admin-menu .navbar-fixed-top {
+    top: 20px;
+}
+
 .col-sm-3 {
        padding-right: 0px;
        padding-left: 0px;
@@ -85,6 +89,12 @@ hr {
        padding-left: 10px;
 }
 
+.region.region-sidebar-first.well {
+    border: none;
+    border-radius: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
 .tabledrag-toggle-weight-wrapper {
        display: none;
 }
