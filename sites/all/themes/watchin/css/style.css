@@ -63,6 +63,7 @@ hr {
 .navbar-inverse {
        background-color: #D32232;
        border-color: #FF2;
+       background-image: none;
 }
 
 .navbar-inverse .navbar-nav > li > a {
